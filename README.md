@@ -1,3 +1,8 @@
+# About the todo list app
+
+This is a simple todo list app. There are two items hardcoded in the app. User can delete a todo by clicking on the item or can add a new todo item in the list using the form.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
